@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "GANTI_PROJECT_ID_DEV",
+    "dev": "GANTI_PROJECT_ID_DEV",
+    "prod": "GANTI_PROJECT_ID_PROD"
+  }
+}
